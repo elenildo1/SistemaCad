@@ -5,12 +5,18 @@
  */
 package com.br.conexao;
 
+import static java.time.Clock.system;
+
 /**
  *
  * @author elenildo
  */
 public class conexaoBD {
     
-    //imprimi 
-    system.out.println("classe de conexao");
+    public static void main(String[] args) {
+        
+        //alterado no netbeans
+        
+        System.out.println("teste");
+    }
 }
