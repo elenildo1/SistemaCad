@@ -17,6 +17,7 @@ public class conexaoBD {
         
         //alterado no netbeans
         
-        System.out.println("teste");
+        System.out.println("teste");//teste
+        //teste
     }
 }
