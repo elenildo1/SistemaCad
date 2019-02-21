@@ -11,4 +11,6 @@ package com.br.conexao;
  */
 public class conexaoBD {
     
+    //imprimi 
+    system.out.println("classe de conexao");
 }
